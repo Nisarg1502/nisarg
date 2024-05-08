@@ -1,3 +1,3 @@
 # nisarg
-this is my first repo
-Author - Goswami Nisarg
+this is my first repo <br>
+Author - Goswami Nisarg 
